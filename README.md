@@ -23,4 +23,4 @@ This project is licensed under the [Unlicense](UNLICENSE.md).
 
 ## Thanks
 
-Thanks to [Particle41](https://Particle41.com) for sponsoring this project.
+Thanks to [Particle41](https://Particle41.com) for sponsoring this project!
